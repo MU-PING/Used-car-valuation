@@ -1,4 +1,4 @@
-# Kaggle-Used_Car_Price
+# used-car-valuation
 ## 程式簡介
 ### 簡述
 * 使用「類神經網路」實作 [Kaggle](https://www.kaggle.com/) - [100,000 UK Used Car Data set](https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes) 資料集，目的是「二手車價格」之回歸預測。
